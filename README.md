@@ -9,7 +9,7 @@
 
 # Installation 
 1. Clone the repository
-2. Get a Resend api key and configure it in `application.properties`
+2. Get a Resend api key ([docs](https://resend.com/docs/send-with-java)) and configure it in `application.properties`
 ``` 
     # application.properties
     resend.api.key=YOUR_RESEND_API_KEY
