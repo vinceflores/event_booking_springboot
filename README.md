@@ -1,7 +1,7 @@
 # Event Booking in Spring Boot, Postgresql, Docker, Resend
 
 ## Postman Integration tests collection 
-[here]()
+[here](https://crimson-robot-917095.postman.co/workspace/EECS-4413-Building-E-Commerce-S~715d6d60-f185-4b8e-91e5-bc9995dbd439/collection/28402561-849e61b1-f320-4364-abb7-1fb5c296ee87?action=share&creator=28402561&active-environment=28402561-6aafd0d1-7635-4666-8c8b-112fba6b6a35)
 
 # Prerequisites
 - Java JDK 24 installed
